@@ -1,0 +1,5 @@
+{
+  "name": "Dev Events Viewer",
+  "description": "A viewer for developer conferences, hackathons, and webinars based on brave-people/Dev-Event repository.",
+  "requestFramePermissions": []
+}
