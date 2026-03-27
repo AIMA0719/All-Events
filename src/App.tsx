@@ -43,7 +43,7 @@ const getEventColor = (id: string) => {
   return EVENT_COLORS[Math.abs(hash) % EVENT_COLORS.length];
 };
 
-const CATEGORIES = ['전체', '개발', 'AI', '마케팅', '전시', '서브 컬쳐'];
+const CATEGORIES = ['날짜순', '개발', 'AI', '마케팅', '전시', '서브 컬쳐'];
 
 const CalendarView = ({ events }: { events: Event[] }) => {
   const [currentDate, setCurrentDate] = useState(new Date());
@@ -209,7 +209,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedMonth, setSelectedMonth] = useState<string>('all');
-  const [selectedCategory, setSelectedCategory] = useState<string>('전체');
+  const [selectedCategory, setSelectedCategory] = useState<string>('날짜순');
   const [viewMode, setViewMode] = useState<string>('grid');
 
   useEffect(() => {
@@ -430,7 +430,7 @@ export default function App() {
                           event.organizer.toLowerCase().includes(searchQuery.toLowerCase()) ||
                           event.tags.some(t => t.toLowerCase().includes(searchQuery.toLowerCase()));
     const matchesMonth = selectedMonth === 'all' || event.month === selectedMonth;
-    const matchesCategory = selectedCategory === '전체' || event.categories.includes(selectedCategory);
+    const matchesCategory = selectedCategory === '날짜순' || event.categories.includes(selectedCategory);
     
     return matchesSearch && matchesMonth && matchesCategory;
   });
@@ -503,7 +503,7 @@ export default function App() {
                 <SelectContent className="rounded-xl">
                   {months.map(month => (
                     <SelectItem key={month} value={month} className="font-medium">
-                      {month === 'all' ? '전체 일정' : month}
+                      {month === 'all' ? '날짜순' : month}
                     </SelectItem>
                   ))}
                 </SelectContent>
@@ -639,7 +639,7 @@ export default function App() {
                     <Button 
                       variant="outline" 
                       className="mt-6 rounded-full border-slate-200 hover:bg-slate-50"
-                      onClick={() => { setSearchQuery(''); setSelectedMonth('all'); setSelectedCategory('전체'); }}
+                      onClick={() => { setSearchQuery(''); setSelectedMonth('all'); setSelectedCategory('날짜순'); }}
                     >
                       필터 초기화
                     </Button>
