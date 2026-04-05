@@ -138,5 +138,12 @@
     "start_date": "2026-04-05",
     "end_date": "2026-04-05",
     "source": "coex"
+  },
+  {
+    "title": "[킨텍스 전시] 전시홀",
+    "link": "https://www.kintex.com/web/ko/html/facility/exhibition_overview.do",
+    "start_date": "2026-04-05",
+    "end_date": "2026-04-05",
+    "source": "kintex"
   }
 ]
