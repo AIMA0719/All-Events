@@ -84,6 +84,13 @@
     "source": "coex"
   },
   {
+    "title": "[코엑스 전시] Pop-up/Event  올리브베러 썸머 웰니스 스탑 2026.08.01 - 2026.08.02 코엑스 광장  Pop-up/Event  올리브베러 썸머 웰니스 스탑 2026.08.01 - 2026.08.02 코엑스 광장",
+    "link": "https://www.coex.co.kr/exhibitions/%ec%98%ac%eb%a6%ac%eb%b8%8c%eb%b2%a0%eb%9f%ac-%ec%8d%b8%eb%a8%b8-%ec%9b%b0%eb%8b%88%ec%8a%a4-%ec%8a%a4%ed%83%91/?var_page=1&search_start_date=2026.07.31&search_end_date=2026.08.31&list_type=LIST",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "source": "coex"
+  },
+  {
     "title": "[코엑스 전시] Pop-up/Event  Coex On Stage X NouerA 2026.08.02 - 2026.08.02 밀레니엄 광장  Pop-up/Event  Coex On Stage X NouerA 2026.08.02 - 2026.08.02 밀레니엄 광장",
     "link": "https://www.coex.co.kr/exhibitions/coex-on-stage-x-nouera/?var_page=1&search_start_date=2026.07.31&search_end_date=2026.08.31&list_type=LIST",
     "start_date": "2026-07-31",
@@ -93,13 +100,6 @@
   {
     "title": "[코엑스 전시] Convention  맥스서밋 2026 2026.08.03 - 2026.08.04 컨퍼런스룸(북)/아셈볼룸, 오디토리움  Convention  맥스서밋 2026 2026.08.03 - 2026.08.04 컨퍼런스룸(북)/아셈볼룸, 오디토리움",
     "link": "https://www.coex.co.kr/exhibitions/%eb%a7%a5%ec%8a%a4%ec%84%9c%eb%b0%8b-2026/?var_page=1&search_start_date=2026.07.31&search_end_date=2026.08.31&list_type=LIST",
-    "start_date": "2026-07-31",
-    "end_date": "2026-07-31",
-    "source": "coex"
-  },
-  {
-    "title": "[코엑스 전시] Exhibition  2026 공간디자인페어 2026.08.05 - 2026.08.08 Hall D  Exhibition  2026 공간디자인페어 2026.08.05 - 2026.08.08 Hall D",
-    "link": "https://www.coex.co.kr/exhibitions/2026-%ea%b3%b5%ea%b0%84%eb%94%94%ec%9e%90%ec%9d%b8%ed%8e%98%ec%96%b4/?var_page=1&search_start_date=2026.07.31&search_end_date=2026.08.31&list_type=LIST",
     "start_date": "2026-07-31",
     "end_date": "2026-07-31",
     "source": "coex"
@@ -138,5 +138,12 @@
     "start_date": "2026-07-31",
     "end_date": "2026-07-31",
     "source": "coex"
+  },
+  {
+    "title": "[킨텍스 전시] 전시홀",
+    "link": "https://www.kintex.com/web/ko/html/facility/exhibition_overview.do",
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "source": "kintex"
   }
 ]
