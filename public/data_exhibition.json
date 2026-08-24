@@ -98,7 +98,7 @@
     "source": "coex"
   },
   {
-    "title": "[코엑스 전시] Convention  읽는 미래 : AI 시대의 한가운데서 비추는 읽기의 청사진 2026.09.03 - 2026.09.03 오디토리움  Convention  읽는 미래 : AI 시대의 한가운데서 비추는 읽기의 청사진 2026.09.03 - 2026.09.03 오디토리움",
+    "title": "[코엑스 전시] Convention  밀리의서재 10주년 컨퍼런스 읽는 미래 2026.09.03 - 2026.09.03 오디토리움  Convention  밀리의서재 10주년 컨퍼런스 읽는 미래 2026.09.03 - 2026.09.03 오디토리움",
     "link": "https://www.coex.co.kr/exhibitions/%ec%9d%bd%eb%8a%94-%eb%af%b8%eb%9e%98-ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ed%95%9c%ea%b0%80%ec%9a%b4%eb%8d%b0%ec%84%9c-%eb%b9%84%ec%b6%94%eb%8a%94-%ec%9d%bd%ea%b8%b0%ec%9d%98-%ec%b2%ad%ec%82%ac%ec%a7%84/?var_page=1&search_start_date=2026.08.25&search_end_date=2026.09.25&list_type=LIST",
     "start_date": "2026-08-24",
     "end_date": "2026-08-24",
@@ -138,5 +138,12 @@
     "start_date": "2026-08-24",
     "end_date": "2026-08-24",
     "source": "coex"
+  },
+  {
+    "title": "[킨텍스 전시] 전시홀",
+    "link": "https://www.kintex.com/web/ko/html/facility/exhibition_overview.do",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-24",
+    "source": "kintex"
   }
 ]
